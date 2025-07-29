@@ -34,7 +34,7 @@ This concise approach enabled effective visualization of user interactions and e
 
 ### Data Processing
 
-The link for the SQL query: [Add SQL Query Link Here]
+The link for the SQL query: https://github.com/netely313/Funnels-Analysis-SQL/blob/main/SQL_Code_Funnels.sql
 
 ## 📈 Results & Visualizations
 
